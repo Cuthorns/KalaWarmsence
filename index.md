@@ -3,7 +3,7 @@
 h1 {font-size:25px;}
 h1
 {
-    color:blue;
+    color:#00a8f3;
     text-align:center;
 }
 p {font-size:14px;}

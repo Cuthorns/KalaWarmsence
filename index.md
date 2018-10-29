@@ -6,7 +6,7 @@ h1
     color:pink;
     text-align:center;
 }
-
+p {font-size:14px;}
 body 
 {
 	background-image:url("Midolia&Totolouki.jpg");

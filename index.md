@@ -2,7 +2,6 @@
 h2 {
 color: blue;
 }
-</style>
 body 
 {
 	background-image:url("16c9fa8904f97bd1168f93c209a617281324e334_raw.jpg");

@@ -12,7 +12,7 @@ body
 	background-image:url("Midolia&Totolouki.jpg");
 	background-repeat:no-repeat;
 	background-attachment:fixed;
-	background-position:top;
+	background-position:right;
 }
 ul 
 {
@@ -38,7 +38,7 @@ li a
 
 li a:hover 
 {
-    background-color: #111;
+    background-color: pink;
 }
 
 li a:hover:not(.active) {

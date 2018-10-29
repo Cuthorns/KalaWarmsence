@@ -12,7 +12,7 @@ body
 	background-image:url("Midolia&Totolouki.jpg");
 	background-repeat:no-repeat;
 	background-attachment:fixed;
-	background-position:right;
+	background-position:middle;
 }
 ul 
 {
